@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "firstName": "Taras",
+    "lastName": "Bubnov",
+    "avatar": "/statics/avatar-ico.png",
+    "description": "Taras Bubnov description"
+  },
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "avatar": "/statics/avatar-ico.png",
+    "description": "Ivan Ivanov description"
+  },
+  {
+    "id": 2,
+    "firstName": "Denis",
+    "lastName": "Baranov",
+    "avatar": "/statics/avatar-ico.png",
+    "description": "Denis Baranov description"
+  }
+]
