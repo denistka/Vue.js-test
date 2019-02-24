@@ -35,7 +35,6 @@ import { mapActions, mapGetters } from 'vuex'
 export default {
   name: 'PageUserDetail',
   mounted () {
-    console.log(this.$route.params.id)
     this.getUser(this.$route.params.id)
   },
   methods: {
